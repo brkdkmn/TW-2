@@ -1,0 +1,135 @@
+
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    width: 100%;
+    white-space: nowrap;
+}
+body{
+    display: block;
+}
+header{
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+}
+header{
+    display: block;
+}
+.header-left{
+    opacity: 0.8;
+    float: left;
+}
+nav{
+    display: block;
+}
+.header-links{
+    color: black;
+}
+nav a{
+    text-decoration: none;
+    margin-left: 0.75rem;
+    margin-right: 0.75rem;
+    font-size: 13px;
+}
+.header-right{
+    float: right;
+    margin-right: 25px;
+}
+#appicon{
+    vertical-align: middle;
+    opacity: 0.5;
+}
+#sign-in-btn{
+    color: white;
+    background-color: #4285f4;
+    border: none;
+    height: 30px;
+    width: 70px;
+    font-weight: bold;
+    border-radius: 2px;
+}
+#google{
+    height: 95px;
+    width: 272px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+}
+.searchbar{
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 60px;
+}
+#search{
+    font-size: 16px;
+    height: 38px;
+    width: 460px;
+    border-radius: 25px;
+    padding: 3px;
+    border: 1px solid lightgray;
+    padding-left: 50px;
+}
+#mag{
+    height: 30px;
+    width: 30px;
+    position: relative;
+    top: 10px;
+    right: 495px;
+}
+#microphone{
+    position: relative;
+    top: 5px;
+    right: 74px;
+    height: 20px;
+}
+.btn-container{
+    text-align: center;
+    padding-top: 30px;
+}
+#btn1{
+    height: 36px;
+    width: 120px;
+    border: hidden;
+    border-radius: 4px;
+    color: #5f6368;
+    margin-right: 8px;
+}
+#btn2{
+    height: 36px;
+    width: 140px;
+    border: hidden;
+    border-radius: 4px;
+    color: #5f6368;
+}
+#language{
+    text-align: center;
+    margin-top: 20px;
+    font-size: small;
+}
+footer{
+    width: 100%;
+    padding-left: 5px;
+    background-color: #f2f2f2;
+    line-height: 40px;
+    font-size: 14px;
+    position: fixed;
+    bottom: 0;
+}
+.country{
+    border-bottom: 1px solid #e4e4e4;
+    margin-left: 13px;
+    color: #5f6368;
+}
+.footer-left{
+    float: left;
+}
+.footer-links{
+    color: #5f6368;
+}
+.footer-right{
+    float: right;
+}
+
